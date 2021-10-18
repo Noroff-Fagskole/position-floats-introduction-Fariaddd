@@ -1,0 +1,9 @@
+.fixed-position {
+  position: fixed;
+  top: 100px;
+  left: 20px;
+
+  background-color: rgb(124, 89, 141);
+  width: 100px;
+  height: 50px;
+}

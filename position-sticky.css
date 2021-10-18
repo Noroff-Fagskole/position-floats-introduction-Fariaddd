@@ -1,0 +1,10 @@
+.contaier {
+  height: 500px;
+}
+
+.sticky-position {
+  position: sticky;
+  top: 20px;
+  background-color: rgb(148, 104, 167);
+  padding: 20px;
+}

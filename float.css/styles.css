@@ -1,0 +1,18 @@
+.float {
+  background-color: aquamarine;
+  border-bottom: 1px solid #fff;
+  padding: 30px;
+  margin: 10px;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+
+/* help class*/
+.clear {
+ clear: right;   
+}

@@ -1,0 +1,23 @@
+.container {
+  position: relative;
+  height: 100px;
+  background-color: dimgrey;
+}
+
+.one {
+  position: relative;
+  z-index: 1;
+  background-color: rgb(182, 154, 85);
+  padding: 10px;
+  width: 200px;
+}
+
+.two {
+  position: absolute;
+  z-index: 2;
+  top: 40px;
+  left: 40px;
+  width: 200px;
+  padding: 20px;
+  background-color: hotpink;
+}
